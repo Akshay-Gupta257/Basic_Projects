@@ -1,0 +1,52 @@
+.canvas{
+   
+   text-align: center;
+   height: 768px;
+   width: 1366px;
+}
+h1{
+    text-align: centre;
+    font-weight: bold;
+}
+.akshay{
+   display:inline-block;
+   height: 100px;
+   width: 100px;
+   margin: 10px;
+   box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+}
+#Red{
+    background-color: red;
+    text-decoration: solid;
+    text-align: center;
+    
+}
+#Blue{
+    background-color: blue;
+    text-decoration: solid;
+    text-align: center;
+}
+#Pink{
+    background-color: pink;
+    text-decoration: solid;
+    text-align: center;
+}
+#Green{
+    background-color: green;
+    text-decoration: solid;
+    text-align: center;
+}
+span{
+    text-align: center;
+}
+nav{
+    height: 17.6px;
+    width: 60px;
+    background-color: grey;
+    border-radius: 4px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
